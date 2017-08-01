@@ -12,9 +12,10 @@ For the week leading up to Defcon 25 I spent some time learning and polishing up
 + Metasploit: The Penetration Tester's Guide by Kennedy, Gorman, Kearns, and Aharoni 
 + Penetration Testing: A Hands On Introduction to Hacking by Weidman 
 + The Hacker's Manual 2015 
++ Linux Bible by Negus 
 
 I've been practicing using a few resources on the internet like the wargames on OvertheWire.
 
 And of course, on my 1 hour 30 minute commutes to my IT technician job, I lockpick if I have a seat to sit down. 
 
-On Monday and Tuesday of next week (7/25 - 7/26), I plan to make a trip to the Cybersecurity Lab on the city campus and pick up stuff. 
+On the Monday and Tuesday of next week (7/25 - 7/26), I plan to make a trip to the Cybersecurity Lab on the city campus and pick up stuff. 
