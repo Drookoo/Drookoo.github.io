@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Andrew Ku is a second year undergrad student at Pace University Seidenberg School of Computer Science and Information Systems, completing a Bachelor of Science degree in Information Systems. He spends his weekends either commuting to other universities on the east coast in order to attend 24-36 hour hackathons, or attending the weekly cybersecurity team meeting up at the Pleasantville campus. He loves all aspects of cybersecurity, Python scripting, writing web frameworks in Django, and speculating on volatile companies.
+Andrew Ku is a third year undergrad student at Pace University Seidenberg School of Computer Science and Information Systems, completing a Bachelor of Science degree in Information Systems. He spends his weekends either commuting to other universities on the east coast in order to attend 24-36 hour hackathons, or attending the weekly cybersecurity team meeting up at the Pleasantville campus. He loves all aspects of cybersecurity, Python scripting, writing web frameworks in Django, and speculating on volatile companies.
 
 ### More Information
 
